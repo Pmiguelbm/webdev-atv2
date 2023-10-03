@@ -1,0 +1,102 @@
+ul{
+  list-style-type: none;
+  display: inline-flex;
+  color: #000;
+}
+
+li{
+  padding-right: 10px;
+  color: #fff;
+
+}
+
+#valor{
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+#valor2{
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+#card{
+  width: 300px;
+  height: 360px;
+  flex-wrap: wrap;
+  margin-right: 10px;
+  margin-left: 8px;
+}
+
+#card title{
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+}
+
+#card img{
+  margin: auto;
+  display: block;
+  background-color: gray;
+  border-radius: 10px;
+  width: 240px;
+  height: 230px;
+}
+
+#produtos{
+  width: 300px;
+  height: 360px;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#produtos title{
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+}
+
+#produtos img{
+  margin: auto;
+  display: block;
+  background-color: gray;
+  border-radius: 10px;
+  width: 240px;
+  height: 230px;
+}
+
+section{
+  background-color: #1a1d25;
+  color: #fff;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+.ant-layout-header {
+    background-color: #fff; 
+    color: white; 
+    font-size: 24px; 
+}
+  
+.site-layout-content {
+    padding: 10px;
+    background-color: #fff; 
+}
+  
+.ant-layout-footer {
+    text-align: center;
+    background-color: #1a1d25; 
+    color: white; 
+    padding: 12px; 
+}
+
+  
